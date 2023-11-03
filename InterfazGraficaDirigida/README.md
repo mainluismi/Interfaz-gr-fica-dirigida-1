@@ -1,1 +1,0 @@
-# Interfaz-gr-fica-dirigida-1
